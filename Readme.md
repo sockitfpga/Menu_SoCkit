@@ -1,4 +1,4 @@
-# Startup core for MiSTer SoCkit
+# Startup core for MiSTer SoCkit (2022 firmware)
 
 * **ESC** - switch to options
 * **F1** - switch the background
