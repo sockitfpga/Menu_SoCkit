@@ -1,4 +1,4 @@
-# Startup core for MiSTer
+# Startup core for MiSTer SoCkit
 
 * **ESC** - switch to options
 * **F1** - switch the background
